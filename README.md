@@ -1,11 +1,11 @@
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src="https://your-image-url/banner.png" alt="Banner" width="100%">
+  <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 
 <!-- Título -->
 <h1 align="center">Hola 👋, soy ixgramdev</h1>
-<h3 align="center">Desarrollador apasionado por crear soluciones creativas y eficientes</h3>
+<h3 align="center">Desarrollador de Software Junior</h3>
 
 <!-- Badges -->
 <p align="center">
@@ -17,21 +17,35 @@
 ---
 
 ## 🚀 Sobre mí
-- 🔭 Actualmente trabajando en **proyectos personales de automatización**  
-- 🌱 Aprendiendo **Java avanzado y arquitectura de software**  
-- 💬 Pregúntame sobre **Java, Python, bases de datos y bots**  
-- ⚡ Dato curioso: *"Prefiero refactorizar antes que parchear"*  
+- 🔭 Actualmente trabajando en **General Software Inc.**  
+- 📚 Estudiando en la **CUAJE** — *Segundo año*
+- 🌱 Aprendiendo **Backend en Python y Frontend con Next**  
+- 💡 Desarrollando apps para **Automatización de redes**  
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
+
 <p align="center">
-  <img src="assets/Python-Dark.svg" alt="Python" width="50" />
-  <img src="assets/Ubuntu-Dark.svg" alt="Ubuntu" width="50" />
-  <img src="assets/VSCode-Light.svg" alt="VSC" width="50" />
-  <img src="assets/frappe_dark.svg" alt="Frappe" width="50" />
-  <img src="assets/erpnext_dark.svg" alt="ERP" width="50" />
+  <img src="assets/Python-Dark.svg" alt="Python" width="50" title="Lenguaje de Programación" style="margin: 15px;" />
+  <img src="assets/frappe_dark.svg" alt="Frappe" width="50" title="Framework" style="margin: 15px;" />
+  <img src="assets/erpnext_dark.svg" alt="ERPNext" width="50" title="Framework" style="margin: 15px;" />
+  <img src="assets/Ubuntu-Dark.svg" alt="Ubuntu" width="50" title="Sistema Operativo" style="margin: 15px;" />
+  <img src="assets/VSCode-Light.svg" alt="Visual Studio Code" width="50" title="IDE" style="margin: 15px;" />
 </p>
+
+
+<p align="center">
+  <sub>
+    <b>Lenguaje</b> • Python &nbsp;|&nbsp;
+    <b>Frameworks</b> • Frappe, ERPNext &nbsp;|&nbsp;
+    <b>Sistema Operativo</b> • Ubuntu &nbsp;|&nbsp;
+    <b>Entorno</b> • VS Code
+  </sub>
+</p>
+
+
+
 
 ---
 
@@ -43,11 +57,6 @@
 
 ---
 
-## 🖼️ Proyectos destacados
-- [**Proyecto Bot Telegram**](https://github.com/ixgramdev/telegram-bot) – Automatización y manejo de menús  
-- [**Sistema de Gestión Swing**](https://github.com/ixgramdev/swing-project) – CRUD con validaciones personalizadas  
-
----
 
 ## 💬 Contáctame
 <p align="center">
