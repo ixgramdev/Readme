@@ -28,10 +28,12 @@
 
 <p align="center">
   <img src="assets/Python-Dark.svg" alt="Python" width="50" title="Lenguaje de Programación" style="margin: 15px;" />
-  <img src="assets/frappe_dark.svg" alt="Frappe" width="50" title="Framework" style="margin: 15px;" />
-  <img src="assets/erpnext_dark.svg" alt="ERPNext" width="50" title="Framework" style="margin: 15px;" />
+  <img src="assets/C.svg" alt="C" width="50" title="IDE" style="margin: 10px;" />
+    <img src="assets/Java-Light.svg" alt="Java" width="50" title="IDE" style="margin: 10px;" />
+  <img src="assets/frappe_dark.svg" alt="Frappe" width="50" title="Framework" style="margin: 10px;" />
+  <img src="assets/erpnext_dark.svg" alt="ERPNext" width="50" title="Framework" style="margin: 10px;" />
   <img src="assets/Ubuntu-Dark.svg" alt="Ubuntu" width="50" title="Sistema Operativo" style="margin: 15px;" />
-  <img src="assets/VSCode-Light.svg" alt="Visual Studio Code" width="50" title="IDE" style="margin: 15px;" />
+  <img src="assets/VSCode-Light.svg" alt="Visual Studio Code" width="50" title="IDE" style="margin: 10px;" />
 </p>
 
 
