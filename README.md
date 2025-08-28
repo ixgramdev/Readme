@@ -26,7 +26,11 @@
 
 ## 🛠️ Tecnologías y herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,mysql,linux" />
+  <img src="assets/Python-Dark.svg" alt="Python" width="50" />
+  <img src="assets/Ubuntu-Dark.svg" alt="Ubuntu" width="50" />
+  <img src="assets/VSCode-Light.svg" alt="VSC" width="50" />
+  <img src="assets/frappe_dark.svg" alt="Frappe" width="50" />
+  <img src="assets/erpnext_dark.svg" alt="ERP" width="50" />
 </p>
 
 ---
